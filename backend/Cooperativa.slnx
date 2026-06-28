@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Cooperativa.Api/Cooperativa.Api.csproj" />
+  <Project Path="Cooperativa.Domain.Tests/Cooperativa.Domain.Tests.csproj" />
+  <Project Path="Cooperativa.Domain/Cooperativa.Domain.csproj" />
+  <Project Path="Cooperativa.Infrastructure/Cooperativa.Infrastructure.csproj" />
+</Solution>
